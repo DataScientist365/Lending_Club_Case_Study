@@ -29,10 +29,10 @@ In other words, the company wants to understand the driving factors (or driver v
 
 
 ## Python Libraries Used-
-pandas-1.0.1
-numpy-1.20.2
-matplotlib-3.1.3
-seaborn-0.10.0
+-pandas-1.0.1
+-numpy-1.20.2
+-matplotlib-3.1.3
+-seaborn-0.10.0
 
 
 ## Contact
